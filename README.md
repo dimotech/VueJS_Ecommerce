@@ -1,6 +1,7 @@
 # projectx
 
 > A Vue.js project
+It's a sample product i am working on
 
 ## Build Setup
 
